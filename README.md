@@ -7,12 +7,12 @@ Focused on the architecture that connects data, delivery, and decisions.
 # 💫 About Me:
 Everything operates within a system.
 
-Data feeds models.
-Models inform decisions.
+Data feeds models.<br>
+Models inform decisions.<br>
 Decisions drive execution.
 
-When the architecture is weak, intelligence stays theoretical.
-When the architecture is intentional, intelligence becomes operational.
+When the architecture is weak, intelligence stays theoretical.<br>
+When the architecture is intentional, intelligence becomes operational.<br>
 
 I work at the intersection of data, systems, and execution — building structured frameworks that turn analysis into operational impact.
 
