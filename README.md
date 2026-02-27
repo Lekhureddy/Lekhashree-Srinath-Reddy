@@ -3,6 +3,7 @@
 <p align="center">
 Focused on the architecture that connects data, delivery, and decisions.
 </p>
+
 # 💫 About Me:
 Everything is a system.<br><br>Projects.<br>Operations.<br>Data.<br>Decisions.<br><br>If the system is weak, performance is accidental.<br>If the system is strong, performance is repeatable.<br><br>I design systems that make performance intentional.
 
