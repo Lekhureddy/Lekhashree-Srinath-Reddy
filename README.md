@@ -5,7 +5,16 @@ Focused on the architecture that connects data, delivery, and decisions.
 </p>
 
 # 💫 About Me:
-Everything is a system.<br><br>Projects.<br>Operations.<br>Data.<br>Decisions.<br><br>If the system is weak, performance is accidental.<br>If the system is strong, performance is repeatable.<br><br>I design systems that make performance intentional.
+Everything operates within a system.
+
+Data feeds models.
+Models inform decisions.
+Decisions drive execution.
+
+When the architecture is weak, intelligence stays theoretical.
+When the architecture is intentional, intelligence becomes operational.
+
+I work at the intersection of data, systems, and execution — building structured frameworks that turn analysis into operational impact.
 
 
 ## 🌐 Socials:
