@@ -4,18 +4,20 @@
 Architecting Operational Intelligence across AI, Analytics, and Enterprise Systems.
 </p>
 
-# 💫 About Me:
-Everything operates within a system.
+#  HOW I THINK:
+Systems First.<br>
+Every problem operates within a structure. I begin by mapping architecture before building solutions.
 
-Data feeds models.<br>
-Models inform decisions.<br>
-Decisions drive execution.
+Data Before Opinion.<br>
+Models are tools, not decorations. Decisions must be evidence-driven.
 
-When the architecture is weak, intelligence stays theoretical.<br>
-When the architecture is intentional, intelligence becomes operational.<br>
+Execution Over Theory.<br>
+Analytics has value only when it improves operational performance.
 
-I work at the intersection of data, systems, and execution - building structured frameworks that turn analysis into operational impact.
+Governance is Power.<br>
+Scalable systems require structure, accountability, and intentional design.
 
+I work at the intersection of AI, analytics, systems architecture, and operational execution — building structured frameworks that transform intelligence into measurable impact.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lekhashree-reddy2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:LEKHUREDDY@GMAIL.COM) 
