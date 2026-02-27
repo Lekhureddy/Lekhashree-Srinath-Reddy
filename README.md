@@ -12,8 +12,32 @@ Everything is a system.<br><br>Projects.<br>Operations.<br>Data.<br>Decisions.<b
 ![](https://github-readme-stats.vercel.app/api?username=LEKHUREDDY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LEKHUREDDY&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LEKHUREDDY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Featured Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LEKHUREDDY&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔹 AI-Powered Project Risk Predictor
+End-to-end ML decision system that classifies project health and generates actionable recommendations.
+- Python, Scikit-learn, Streamlit
+- Docker containerization
+- CI validation with GitHub Actions
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[View Repository](https://github.com/YOUR-REPO-LINK)
+
+---
+
+### 🔹 Enterprise ERP Performance Analytics
+Data-driven analysis of 420 enterprise-style projects to evaluate delivery risk and schedule adherence.
+- Logistic Regression (77% accuracy)
+- Power BI KPI dashboards
+- SAP-aligned analytics pipeline
+
+[View Repository](https://github.com/YOUR-REPO-LINK)
+
+---
+
+### 🔹 Manufacturing Process Performance Analysis
+Operational analytics project evaluating cycle time, defect rates, and throughput performance.
+- Python & KPI modeling
+- Power BI visualization
+- Process optimization insights
+
+[View Repository](https://github.com/YOUR-REPO-LINK)
