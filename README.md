@@ -1,7 +1,7 @@
 <h1 align="center">Lekhashree Srinath Reddy</h1>
 
 <p align="center">
-Focused on the architecture that connects data, delivery, and decisions.
+Architecting Operational Intelligence across AI, Analytics, and Enterprise Systems.
 </p>
 
 # 💫 About Me:
