@@ -1,7 +1,6 @@
-# Lekhashree-Srinath-Reddy
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=0F62FE&center=true&vCenter=true&width=800&lines=Systems+Thinker;Data+Driven+Decision+Builder;Engineering+Management+Graduate;Designing+Performance+Driven+Frameworks" />
-</p>
+Lekhashree-Srinath-Reddy
+
+Focused on the architecture that connects data, delivery, and decisions.
 
 # 💫 About Me:
 Everything is a system.<br><br>Projects.<br>Operations.<br>Data.<br>Decisions.<br><br>If the system is weak, performance is accidental.<br>If the system is strong, performance is repeatable.<br><br>I design systems that make performance intentional.
