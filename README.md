@@ -4,7 +4,7 @@
 Architecting Operational Intelligence across AI, Analytics, and Enterprise Systems.
 </p>
 
-#  HOW I THINK:
+# 🤔 HOW I THINK:
 Systems First.<br>
 Every problem operates within a structure. I begin by mapping architecture before building solutions.
 
