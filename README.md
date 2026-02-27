@@ -14,7 +14,7 @@ Decisions drive execution.
 When the architecture is weak, intelligence stays theoretical.<br>
 When the architecture is intentional, intelligence becomes operational.<br>
 
-I work at the intersection of data, systems, and execution — building structured frameworks that turn analysis into operational impact.
+I work at the intersection of data, systems, and execution - building structured frameworks that turn analysis into operational impact.
 
 
 ## 🌐 Socials:
